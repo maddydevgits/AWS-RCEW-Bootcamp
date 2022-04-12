@@ -12,7 +12,18 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
 https://t.me/+ElKuvM2jqnQwNTc1
 
 # Projects
-
+1. Celebrity Detection System
+2. Deploy an e-commerce website on AWS
+3. Create a basic Serverless App
+4. Face Attendance System using AWS
+5. Criminals Detection System
+6. Deploy a basic Machine Learning Model on AWS
+7. Create a OCR based moel for blind
+8. Traffic Lights Detection System
+9. AWS IoT Event Alerts
+10. Document Management System on AWS
+11. Create a pub-sub model based web application
+12. Amazon Alexa based Virtual IoT Device Control
 
 # Session Content
 
